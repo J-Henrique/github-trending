@@ -4,7 +4,7 @@ import com.jhbb.domain.executor.PostExecutionThread
 import com.jhbb.domain.model.Project
 import com.jhbb.domain.repository.ProjectRepository
 import com.jhbb.domain.test.ProjectDataFactory
-import com.nhaarman.mockitokotlin2.whenever
+import com.nhaarman.mockito_kotlin.whenever
 import io.reactivex.Observable
 import org.junit.Before
 import org.junit.Test

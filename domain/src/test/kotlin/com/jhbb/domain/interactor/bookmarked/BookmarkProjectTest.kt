@@ -3,8 +3,8 @@ package com.jhbb.domain.interactor.bookmarked
 import com.jhbb.domain.executor.PostExecutionThread
 import com.jhbb.domain.repository.ProjectRepository
 import com.jhbb.domain.test.ProjectDataFactory
-import com.nhaarman.mockitokotlin2.any
-import com.nhaarman.mockitokotlin2.whenever
+import com.nhaarman.mockito_kotlin.any
+import com.nhaarman.mockito_kotlin.whenever
 import io.reactivex.Completable
 import org.junit.Before
 import org.junit.Test
